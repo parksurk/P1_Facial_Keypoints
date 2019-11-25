@@ -106,3 +106,5 @@ ENV/
 # App, Exe
 *.app
 *.exe
+
+saved_models/
